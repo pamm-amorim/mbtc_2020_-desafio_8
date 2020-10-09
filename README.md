@@ -8,13 +8,15 @@ Neste repositório está o flow do Node-RED submetido, seguindo as regras de neg
 
 Minha colocação nesse desafio foi 67º lugar. https://maratona.dev/pt/ranking?c=8
 
-# OBJETIVO
+![foto flow](https://github.com/pamm-amorim/mbtc_2020_-desafio_8/blob/main/foto%20flow.JPG)
+
+### OBJETIVO
 
 Como objetivo principal, espera-se ter um dispositivo inteligente que é capaz de compreender sugestões de um motorista que dirige um veículo Fiat ou Jeep. Esse dispositivo será capaz de analisar o contexto do que está sendo dito em linguagem natural por um motorista, realizar análise de sentimento, e ao final ser capaz de sugerir outros veículos para test-drive ou review, além de sintetizar informações valiosas para equipes de engenharia responsáveis por melhorias nos automóveis.
 
 Neste desafio serão utilizados diversos serviços da IBM Cloud, como o Watson Speech to Text (STT) para a transcrição de áudio, e o Watson Natural Language Understanding (NLU) para extração de entidades textuais e análise de sentimento. As falas do motorista deverão ser processadas em áudio e texto, e as entidades textuais pertinentes a identificação de componentes, ou critérios de avaliação dos veículos, deverão ser anotadas por um modelo de IA. Esses serviços serão todos integrados por meio de um framework ou tecnologia de escolha livre pelo participante, que além do modelo treinado também entregará uma API REST como solução.
 
-# RESUMO DAS TAREFAS
+### RESUMO DAS TAREFAS
 
 1. Baixar o conjunto de [amostras de texto fornecido](./doc/source/dataset) para treinamento do WKS.
 2. Criar uma instância do Watson Knowledge Studio.
