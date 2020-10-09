@@ -4,7 +4,7 @@ Desafio 8 (FCA) da Maratona Behind the Code 2020
 
 https://github.com/maratonadev-br/desafio-8-2020
 
-Neste repositório está o flow do Node-RED submetido para o desafio, seguindo as regras de negócios, de acordo com o github do desafio.
+Neste repositório está o flow do Node-RED submetido, seguindo as regras de negócios, de acordo com o github do desafio.
 
 Minha colocação nesse desafio foi 67º lugar. https://maratona.dev/pt/ranking?c=8
 
