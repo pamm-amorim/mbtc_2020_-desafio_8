@@ -1,4 +1,4 @@
-# mbtc_2020_-desafio_8
+# MBTC 2020 - DESAFIO 8 - GRUPO FCA
 
 Desafio 8 (FCA) da Maratona Behind the Code 2020
 
