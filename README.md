@@ -4,6 +4,8 @@ Desafio 8 (FCA) da Maratona Behind the Code 2020
 
 https://github.com/maratonadev-br/desafio-8-2020
 
+Minha colocação nesse desafio foi 67º lugar. https://maratona.dev/pt/ranking?c=8
+
 # OBJETIVO
 
 Como objetivo principal, espera-se ter um dispositivo inteligente que é capaz de compreender sugestões de um motorista que dirige um veículo Fiat ou Jeep. Esse dispositivo será capaz de analisar o contexto do que está sendo dito em linguagem natural por um motorista, realizar análise de sentimento, e ao final ser capaz de sugerir outros veículos para test-drive ou review, além de sintetizar informações valiosas para equipes de engenharia responsáveis por melhorias nos automóveis.
