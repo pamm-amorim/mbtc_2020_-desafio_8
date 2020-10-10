@@ -1,6 +1,6 @@
 # MBTC 2020 - DESAFIO 8 - GRUPO FCA
 
-Desafio 8 (FCA) da Maratona Behind the Code 2020
+Desafio 8 (FCA) da Maratona Behind the Code 2020. Desafio envolvendo Inteligência Artificial em modelos anotadores de texto com Watson Knowledge Studio e o desenvolvimento de APIs integradas.
 
 https://github.com/maratonadev-br/desafio-8-2020
 
